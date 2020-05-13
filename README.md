@@ -1,6 +1,8 @@
 # Thailand-Beverage-Project
 For this project, I did an analysis on the beverage market in Thailand, in the capacity of a data consultant, so as to recommend to an up-and-coming company on what insights they can derive based on the current state of the market to ensure the success of their budding business.
 
+![Thai Beverages](https://github.com/jaotheboss/Thailand-Beverage-Project/blob/master/Thai%20Beverages.jpg)
+
 ## Objective of this Project:
     1. Recommend to a company what they should be doing based on analysis of data
     2. Gather insights of data that would be useful for starting a company
